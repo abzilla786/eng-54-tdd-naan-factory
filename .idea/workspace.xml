@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8655d7bc-77db-4041-a233-41c22e7fcd2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/naan_factory_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_naan_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_naan_factory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naan_factory_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/naan_factory_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_naan_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_naan_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_naan_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_naan_factory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,21 +72,21 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="323" y="88" key="#Inspections/0.23.1440.827@0.23.1440.827" timestamp="1583427279714" />
-    <state width="1259" height="181" key="GridCell.Tab.0.bottom" timestamp="1583428416159">
+    <state width="1259" height="181" key="GridCell.Tab.0.bottom" timestamp="1583430878500">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1259" height="181" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583428416159" />
-    <state width="1259" height="181" key="GridCell.Tab.0.center" timestamp="1583428416158">
+    <state width="1259" height="181" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583430878500" />
+    <state width="1259" height="181" key="GridCell.Tab.0.center" timestamp="1583430878499">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1259" height="181" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1583428416158" />
-    <state width="1259" height="181" key="GridCell.Tab.0.left" timestamp="1583428416158">
+    <state width="1259" height="181" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1583430878499" />
+    <state width="1259" height="181" key="GridCell.Tab.0.left" timestamp="1583430878498">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1259" height="181" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1583428416158" />
-    <state width="1259" height="181" key="GridCell.Tab.0.right" timestamp="1583428416159">
+    <state width="1259" height="181" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1583430878498" />
+    <state width="1259" height="181" key="GridCell.Tab.0.right" timestamp="1583430878499">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1259" height="181" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1583428416159" />
+    <state width="1259" height="181" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1583430878499" />
   </component>
 </project>
