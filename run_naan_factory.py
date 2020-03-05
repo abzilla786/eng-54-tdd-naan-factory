@@ -3,7 +3,4 @@
 
 from naan_factory_functions import *
 
-def naan_factory(arg1, arg2):
-    return 'naan'
-
-
+print(run_factory('water', 'flour'))
